@@ -1,7 +1,4 @@
 # PortfolioSite
-<<<<<<< HEAD
-Goodness I thought I could get some of my personal projects in presentable order in time for this, ack
-=======
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.2.
 
