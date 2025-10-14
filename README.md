@@ -2,6 +2,12 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.2.2.
 
+## Deploy website 
+To build the website for pages deployment use the below command. Keep in mind that this will deploy to the MASTER branch, make sure to merge to main for use by pages
+```bash
+ng build --output-path docs --base-href /PortfolioSite/
+```
+
 ## Development server
 
 To start a local development server, run:
