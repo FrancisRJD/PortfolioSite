@@ -1,0 +1,9 @@
+p{
+    margin-left: 10px;
+}
+p::first-line{
+    text-indent: 20px;
+}
+nav #override{
+    border-bottom: 1px, solid, gray;
+}
