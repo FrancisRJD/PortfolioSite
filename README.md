@@ -7,6 +7,7 @@ To build the website for pages deployment use the below command. Keep in mind th
 ```bash
 ng build --output-path docs --base-href /PortfolioSite/
 ```
+Make sure to move the resulting browser folder contents to the root of docs so gh pages can see the index.html!
 
 ## Development server
 
